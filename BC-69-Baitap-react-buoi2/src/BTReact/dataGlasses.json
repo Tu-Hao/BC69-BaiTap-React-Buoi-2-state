@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "price": 30,
+    "name": "GUCCI G8850U",
+    "url": "./glassesImage/v1.png",
+    "icon": "./glassesImage/g1.jpg",
+    "desc": "GUCCI luxury brow. "
+  },
+  {
+    "id": 2,
+    "price": 50,
+    "name": "GUCCI G8759H",
+    "url": "./glassesImage/v2.png",
+    "icon": "./glassesImage/g2.jpg",
+    "desc": "GUCCI USA limited. "
+  },
+  {
+    "id": 3,
+    "price": 30,
+    "name": "DIOR D6700HQ",
+    "url": "./glassesImage/v3.png",
+    "icon": "./glassesImage/g3.jpg",
+    "desc": "DIOR cool blue. "
+  },
+  {
+    "id": 4,
+    "price": 70,
+    "name": "DIOR D6005U",
+    "url": "./glassesImage/v4.png",
+    "icon": "./glassesImage/g4.jpg",
+    "desc": "DIOR rose heart. "
+  },
+  {
+    "id": 5,
+    "price": 40,
+    "name": "PRADA P8750",
+    "url": "./glassesImage/v5.png",
+    "icon": "./glassesImage/g5.jpg",
+    "desc": "PRADA catwoman. "
+  },
+  {
+    "id": 6,
+    "price": 60,
+    "name": "PRADA P9700",
+    "url": "./glassesImage/v6.png",
+    "icon": "./glassesImage/g6.jpg",
+    "desc": "PRADA ocean eyes. "
+  },
+  {
+    "id": 7,
+    "price": 80,
+    "name": "FENDI F8750",
+    "url": "./glassesImage/v7.png",
+    "icon": "./glassesImage/g7.jpg",
+    "desc": "FENDI angry girl. "
+  },
+  {
+    "id": 8,
+    "price": 100,
+    "name": "FENDI F8500",
+    "url": "./glassesImage/v8.png",
+    "icon": "./glassesImage/g8.jpg",
+    "desc": "FENDI red & brow. "
+  },
+  {
+    "id": 9,
+    "price": 60,
+    "name": "FENDI F4300",
+    "url": "./glassesImage/v9.png",
+    "icon": "./glassesImage/g9.jpg",
+    "desc": "FENDI pool touch. "
+  }
+]
