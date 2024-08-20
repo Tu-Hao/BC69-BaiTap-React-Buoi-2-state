@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       translate: {
-        '-165': '-165%',
+        
       },
     },
   },
